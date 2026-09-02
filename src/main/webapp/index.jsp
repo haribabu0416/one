@@ -612,7 +612,7 @@
 <!-- TOP BAR -->
 
 <div class="top-bar">
-    <span>🚚 Free delivery on orders above ₹999</span>
+    <span>🚚 Free delivery on orders above ₹1000</span>
     <span>Customer Support | Track Order</span>
 </div>
 
