@@ -638,7 +638,7 @@
     <div class="header-actions">
 
         <div class="header-item">
-            <small>Hello, Sign in</small>
+            <small>Hell, Sign in</small>
             <strong>Account</strong>
         </div>
 
