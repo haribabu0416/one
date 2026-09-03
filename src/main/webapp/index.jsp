@@ -747,7 +747,7 @@
 
         <div>
             <h2>🔥 Flash Sale</h2>
-            <p>Limited-time offers. Grab them before they're gone!</p>
+            <p>Limited-time offer. Grab them before they're gone!</p>
         </div>
 
         <div class="timer">
